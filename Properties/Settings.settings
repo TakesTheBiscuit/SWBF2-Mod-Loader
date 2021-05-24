@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BattlefrontIIMOU.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="modDataPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\\OriginGames\\STAR WARS Battlefront II\\ModData</Value>
+    </Setting>
+    <Setting Name="eaLinkPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Origin\EALink.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

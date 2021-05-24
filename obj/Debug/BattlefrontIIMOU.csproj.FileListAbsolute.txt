@@ -1,0 +1,8 @@
+C:\Users\paul\source\repos\BattlefrontIIMOU\bin\Debug\BattlefrontIIMOU.exe.config
+C:\Users\paul\source\repos\BattlefrontIIMOU\bin\Debug\BattlefrontIIMOU.exe
+C:\Users\paul\source\repos\BattlefrontIIMOU\bin\Debug\BattlefrontIIMOU.pdb
+C:\Users\paul\source\repos\BattlefrontIIMOU\obj\Debug\BattlefrontIIMOU.Properties.Resources.resources
+C:\Users\paul\source\repos\BattlefrontIIMOU\obj\Debug\BattlefrontIIMOU.csproj.GenerateResource.cache
+C:\Users\paul\source\repos\BattlefrontIIMOU\obj\Debug\BattlefrontIIMOU.exe
+C:\Users\paul\source\repos\BattlefrontIIMOU\obj\Debug\BattlefrontIIMOU.pdb
+C:\Users\paul\source\repos\BattlefrontIIMOU\obj\Debug\BattlefrontIIMOU.Form1.resources
